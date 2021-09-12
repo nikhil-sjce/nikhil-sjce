@@ -13,7 +13,7 @@
 <br>
 
 <br>
-👨‍💻 Technologies that I'm familiar with:
+💻 Technologies that I'm familiar with:
 <ul>
 <li>Languages: C/C++, Java, JavaScript</li>
 <li>Libraries/Frameworks: HTML, CSS, Bootstrap, Node.js, Express JS, EJS, Android Studio</li>
