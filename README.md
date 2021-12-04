@@ -24,8 +24,8 @@
 💻 Technologies that I'm familiar with:
 <ul>
   <br>
-<li>Languages: C/C++, Java, JavaScript</li>
-<li>Libraries/Frameworks: HTML, CSS, Bootstrap, Node.js, Express JS, EJS, Android Studio</li>
-<li>Database: SQL, MongoDB</li>
-<li>Tools: Firebase</li>
+<li>Languages: C/C++, JavaScript</li>
+<li>Libraries/Frameworks: HTML, CSS, Bootstrap, Node.js, Express JS, EJS</li>
+<li>Database: MySQL, MongoDB, Mongoose</li>
+<li>Tools: Git, Github, REST API's, Postman</li>
 </ul>
