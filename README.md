@@ -18,7 +18,7 @@
 <br>
 <a  href = ""/> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>    </a>
 <a href = ""/>  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />     </a>
-<a href = ""/>  <img src="![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)" /> </a>
+<a href = ""/>  <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /> </a>
 <br>
 <br>
 💻 Technologies that I'm familiar with:
