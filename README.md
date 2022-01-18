@@ -16,9 +16,9 @@
 💻 Coding Profiles :
 <br>
 <br>
-<a  href = "https://www.hackerrank.com/NVYAS?hr_r=1"><img src = "https://user-images.githubusercontent.com/65950622/132973754-a6cf9bef-6c32-4289-b1cf-f0e215ac97ed.png" width="50" height="50" /></a>
-<a href = "https://www.codechef.com/users/nvyas"><img src = "https://user-images.githubusercontent.com/65950622/132973758-69c75a06-f03b-4aa3-9f57-de9d18d9bd94.png" width="50" height="50"/></a>
-<a href = "https://auth.geeksforgeeks.org/user/nvyas/practice/"><img src = "https://user-images.githubusercontent.com/65950622/132973915-e87031bb-78e9-4032-9db5-0c4c62986d9c.png" width="50" height="50"/></a>
+<a  href = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="50" height="50" /></a>
+<a href = "https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" width="50" height="50"/></a>
+<a href = "![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)" width="50" height="50"/></a>
 <br>
 <br>
 💻 Technologies that I'm familiar with:
