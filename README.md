@@ -2,8 +2,8 @@
 <center><h1>Hi there 👋, My name is Nikhil Vyas.</h1></center>
 <center><h2>Student | Developer | Learner</h2></center>
 <ul>
-<li>🎗 I'm interested in working with Fullstack Applications and deeply passionate about software development.</li>
-<li>💻 I’m currently focusing on DSA and working on personal projects.</li>
+<li>🎗 Full Stack Development.</li>
+<li>💻 Data Structures and Algorithms.</li>
 </ul>
 📫 Connect with me:
 <br>
