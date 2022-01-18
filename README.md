@@ -29,5 +29,5 @@
 <li>Libraries/Frameworks: Bootstrap, Node.js, Express JS, EJS</li>
 <li>Database: MySQL, MongoDB, Mongoose</li>
 <li>Tools: Git, Github, REST API's, Postman</li>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={nikhil-sjce}" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-sjce" />
 </ul>
