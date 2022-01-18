@@ -2,10 +2,10 @@
 <center><h1>Hi there 👋, My name is Nikhil Vyas.</h1></center>
 <center><h2>Student | Developer | Learner</h2></center>
 <ul>
-<li>🎗 Full Stack Development.</li>
+<li>💻 Full Stack Development.</li>
 <li>💻 Data Structures and Algorithms.</li>
 </ul>
-📫 Connect with me:
+💻 Connect with me:
 <br>
 <br>
 <a href = "https://www.linkedin.com/in/nikhil-vyas-98a1bb150/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
